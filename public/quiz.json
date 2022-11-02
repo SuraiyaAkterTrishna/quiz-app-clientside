@@ -1,0 +1,143 @@
+[
+    {
+        "id": 1,
+        "question": "Which type of tax is taken directly out of your paycheck??",
+        "a": "What kind of grades you earn.",
+        "b": "Whether or not you pay your bills on time (your credit history).",
+        "c": "Your intended date of graduation.",
+        "d": "All of the above",
+        "correct": "c",
+        "ans": "Your intended date of graduation.",
+        "explanation": "Explanation"
+    },
+    {
+        "id": 2,
+        "question": "Which type of tax is taken directly out of your paycheck??",
+        "a": "What kind of grades you earn.",
+        "b": "Whether or not you pay your bills on time (your credit history).",
+        "c": "Your intended date of graduation.",
+        "d": "All of the above",
+        "correct": "c",
+        "ans": "Your intended date of graduation.",
+        "explanation": "Explanation"
+    },
+    {
+        "id": 3,
+        "question": "Which type of tax is taken directly out of your paycheck??",
+        "a": "What kind of grades you earn.",
+        "b": "Whether or not you pay your bills on time (your credit history).",
+        "c": "Your intended date of graduation.",
+        "d": "All of the above",
+        "correct": "c",
+        "ans": "Your intended date of graduation.",
+        "explanation": "Explanation"
+    },
+    {
+        "id": 4,
+        "question": "Which type of tax is taken directly out of your paycheck??",
+        "a": "What kind of grades you earn.",
+        "b": "Whether or not you pay your bills on time (your credit history).",
+        "c": "Your intended date of graduation.",
+        "d": "All of the above",
+        "correct": "c",
+        "ans": "Your intended date of graduation.",
+        "explanation": "Explanation"
+    },
+    {
+        "id": 5,
+        "question": "Which type of tax is taken directly out of your paycheck??",
+        "a": "What kind of grades you earn.",
+        "b": "Whether or not you pay your bills on time (your credit history).",
+        "c": "Your intended date of graduation.",
+        "d": "All of the above",
+        "correct": "c",
+        "ans": "Your intended date of graduation.",
+        "explanation": "Explanation"
+    },
+    {
+        "id": 6,
+        "question": "Which type of tax is taken directly out of your paycheck??",
+        "a": "What kind of grades you earn.",
+        "b": "Whether or not you pay your bills on time (your credit history).",
+        "c": "Your intended date of graduation.",
+        "d": "All of the above",
+        "correct": "c",
+        "ans": "Your intended date of graduation.",
+        "explanation": "Explanation"
+    },
+    {
+        "id": 7,
+        "question": "Which type of tax is taken directly out of your paycheck??",
+        "a": "What kind of grades you earn.",
+        "b": "Whether or not you pay your bills on time (your credit history).",
+        "c": "Your intended date of graduation.",
+        "d": "All of the above",
+        "correct": "c",
+        "ans": "Your intended date of graduation.",
+        "explanation": "Explanation"
+    },
+    {
+        "id": 8,
+        "question": "Which type of tax is taken directly out of your paycheck??",
+        "a": "What kind of grades you earn.",
+        "b": "Whether or not you pay your bills on time (your credit history).",
+        "c": "Your intended date of graduation.",
+        "d": "All of the above",
+        "correct": "c",
+        "ans": "Your intended date of graduation.",
+        "explanation": "Explanation"
+    },
+    {
+        "id": 9,
+        "question": "Which type of tax is taken directly out of your paycheck??",
+        "a": "What kind of grades you earn.",
+        "b": "Whether or not you pay your bills on time (your credit history).",
+        "c": "Your intended date of graduation.",
+        "d": "All of the above",
+        "correct": "c",
+        "ans": "Your intended date of graduation.",
+        "explanation": "Explanation"
+    },
+    {
+        "id": 10,
+        "question": "Which type of tax is taken directly out of your paycheck??",
+        "a": "What kind of grades you earn.",
+        "b": "Whether or not you pay your bills on time (your credit history).",
+        "c": "Your intended date of graduation.",
+        "d": "All of the above",
+        "correct": "c",
+        "ans": "Your intended date of graduation.",
+        "explanation": "Explanation"
+    },
+    {
+        "id": 11,
+        "question": "Which type of tax is taken directly out of your paycheck??",
+        "a": "What kind of grades you earn.",
+        "b": "Whether or not you pay your bills on time (your credit history).",
+        "c": "Your intended date of graduation.",
+        "d": "All of the above",
+        "correct": "c",
+        "ans": "Your intended date of graduation.",
+        "explanation": "Explanation"
+    },
+    {
+        "id": 12,
+        "question": "Which type of tax is taken directly out of your paycheck??",
+        "a": "What kind of grades you earn.",
+        "b": "Whether or not you pay your bills on time (your credit history).",
+        "c": "Your intended date of graduation.",
+        "d": "All of the above",
+        "correct": "c",
+        "ans": "Your intended date of graduation.",
+        "explanation": "Explanation"
+    },
+    {
+        "id": 13,
+        "question": "What is 48,879 in hexidecimal?",
+        "a": "0x18C1",
+        "b": "0xBEEF",
+        "c": "0xDEAD",
+        "d": "0x12D591",
+        "correct": "b"
+    }
+]
